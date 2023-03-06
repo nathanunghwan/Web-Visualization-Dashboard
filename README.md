@@ -37,7 +37,7 @@
 <img
   src="Images/landing.png"
   width="400"
-  height="300"
+  height="200"
 />
 
 <img
@@ -79,7 +79,7 @@
 <img
   src="Images/nav.png"
   width="400"
-  height="300"
+  height="200"
 />
 
 <img
@@ -93,7 +93,7 @@
 <img
   src="Images/visualize.png"
   width="400"
-  height="300"
+  height="200"
 />
 
 <img
